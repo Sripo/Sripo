@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi * 👋<br><br>I'm Sri Lavanya Ponakala, a recent Master's graduate in Computer Science with a passion for software development. I have a strong foundation in Python, Java, C, and SQL, and I've also worked with various front-end technologies.<br><br>
+# Hi * 👋<br><br>I have a Master’s degree in [Your Field, e.g., Computer Science] and a passion for learning and building. Currently, I’m working on small projects to sharpen my skills and explore new technologies.<br><br>
 ## Certifications<br><br>* Software Engineering Lite Virtual Experience from Forage - JP Morgan Chase & Co.<br>![Screenshot 2023-04-15 163546](https://user-images.githubusercontent.com/50828326/235371386-74b94885-4c4f-455d-9ad7-1b338a613bb0.png)<br><br>* Back-End Engineering Virtual Experience from Forage - LYFT <br>![Screenshot 2023-04-17 223140](https://user-images.githubusercontent.com/50828326/235371491-58ffb9a4-533e-47cf-b5f1-fb321e8b0385.png)<br><br>## Education<br><br>* Master of Science in Computer Science, Wichita State University, May 2023<br>* Bachelor of Science in Computer Science, Bapatla Engineering College, Sep 2020<br><br>## Contact<br><br>Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sripo/) for any opportunities or collaborations.<br><br>Thanks for stopping by!<br>
 
 
