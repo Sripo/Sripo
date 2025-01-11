@@ -9,8 +9,7 @@
 ## Education<br><br>* Master of Science in Computer Science, Wichita State University, May 2023<br>* Bachelor of Science in Computer Science, Bapatla Engineering College, Sep 2020<br><br>
 
 ## Certifications<br><br>
-* [AWS Certified Cloud Practitioner](https://www.credly.com/badges/ad016a55-cf48-46b2-a8fc-9b057351754d/public_url) [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-blue?logo=amazonaws&style=flat)](https://www.credly.com/badges/ad016a55-cf48-46b2-a8fc-9b057351754d/public_url)
-  Verified by AWS and Credly. <br>
+* [AWS Certified Cloud Practitioner](https://www.credly.com/badges/ad016a55-cf48-46b2-a8fc-9b057351754d/public_url) Verified by AWS and Credly. <br>
 * Software Engineering Lite Virtual Experience from Forage - JP Morgan Chase & Co.<br>![Screenshot 2023-04-15 163546](https://user-images.githubusercontent.com/50828326/235371386-74b94885-4c4f-455d-9ad7-1b338a613bb0.png)<br><br>
 * Back-End Engineering Virtual Experience from Forage - LYFT <br>![Screenshot 2023-04-17 223140](https://user-images.githubusercontent.com/50828326/235371491-58ffb9a4-533e-47cf-b5f1-fb321e8b0385.png)<br><br><br>Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sripo/) for any opportunities or collaborations.<br><br>Thanks for stopping by!<br>
 
