@@ -2,9 +2,9 @@
 # Hi * 👋<br><br>I have a Master’s degree in Computer Science and a passion for learning and building. Currently, I’m working on small projects to sharpen my skills and explore new technologies.<br><br>
 ## 💻 What I’m Doing:<br><br>
 
-* Developing projects with Java, Spring Boot, Hibernate, REST APIs, Microservices , Front-end stack, POSTMAN, Kafka(Offset Explorer).<br> *
-* Exploring tools like Snowflake, Tableau.<br> *
-* Constantly learning and growing.<br><br>*
+* Developing projects with Java, Spring Boot, Hibernate, REST APIs, Microservices , Front-end stack, POSTMAN, Kafka(Offset Explorer).<br>
+* Exploring tools like Snowflake, Tableau.<br> 
+* Constantly learning and growing.<br><br>
   
 ## Education<br><br>* Master of Science in Computer Science, Wichita State University, May 2023<br>* Bachelor of Science in Computer Science, Bapatla Engineering College, Sep 2020<br><br>## Contact<br>
 
