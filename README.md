@@ -30,7 +30,7 @@ I'm Sri Lavanya Ponakala, a recent Master's graduate in Computer Science with a 
 
 ## Contact
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sri-lavanya-ponakala/) for any opportunities or collaborations.
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sripo/) for any opportunities or collaborations.
 
 Thanks for stopping by!
 
