@@ -1,6 +1,11 @@
 # 💫 About Me:
 # Hi * 👋<br><br>I have a Master’s degree in Computer Science and a passion for learning and building. Currently, I’m working on small projects to sharpen my skills and explore new technologies.<br><br>
+## 💻 What I’m Doing:<br><br>
 
+* Developing projects with Java, Spring Boot, Hibernate, REST APIs, Microservices , Front-end stack, POSTMAN, Kafka(Offset Explorer).<br> *
+* Exploring tools like Snowflake, Tableau.<br> *
+* Constantly learning and growing.<br><br>*
+  
 ## Education<br><br>* Master of Science in Computer Science, Wichita State University, May 2023<br>* Bachelor of Science in Computer Science, Bapatla Engineering College, Sep 2020<br><br>## Contact<br>
 
 ## Certifications<br><br>* Software Engineering Lite Virtual Experience from Forage - JP Morgan Chase & Co.<br>![Screenshot 2023-04-15 163546](https://user-images.githubusercontent.com/50828326/235371386-74b94885-4c4f-455d-9ad7-1b338a613bb0.png)<br><br>* Back-End Engineering Virtual Experience from Forage - LYFT <br>![Screenshot 2023-04-17 223140](https://user-images.githubusercontent.com/50828326/235371491-58ffb9a4-533e-47cf-b5f1-fb321e8b0385.png)<br><br><br>Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sripo/) for any opportunities or collaborations.<br><br>Thanks for stopping by!<br>
